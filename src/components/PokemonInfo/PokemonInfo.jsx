@@ -33,7 +33,7 @@ export default class PokemonInfo extends Component {
   }
 
   render() {
-    const { pokemon, loading, error, status } = this.state;
+    const { pokemon, error, status } = this.state;
     const { pokemonName } = this.props;
 
     if (status === 'idle') {
@@ -56,7 +56,7 @@ export default class PokemonInfo extends Component {
     //   <div>
     //     <h1>Pokemon Info</h1>
     //     {error && <h1>{error.message}</h1>}
-    //     {loading && <div>Loading...</div>}
+    //     {this.state.loading && <div>Loading...</div>}
     //     {!pokemonName && <div>Enter pokemon's name</div>}
     //     {pokemon && (
     //       <div>
