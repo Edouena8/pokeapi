@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokeapi/static/css/main.1083b3b2.css",
+    "main.js": "/pokeapi/static/js/main.b38e78df.js",
+    "static/media/error.png": "/pokeapi/static/media/error.c95dcdc3eaf320e53223.png",
+    "static/media/pendingImg.jpg": "/pokeapi/static/media/pendingImg.23b6b768bf5983f164e9.jpg",
+    "index.html": "/pokeapi/index.html",
+    "main.1083b3b2.css.map": "/pokeapi/static/css/main.1083b3b2.css.map",
+    "main.b38e78df.js.map": "/pokeapi/static/js/main.b38e78df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1083b3b2.css",
+    "static/js/main.b38e78df.js"
+  ]
+}
